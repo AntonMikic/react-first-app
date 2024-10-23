@@ -1,0 +1,18 @@
+[
+    {
+        "id":892374,
+        "name":"Danilo",
+        "phone" : "111-222-333",
+        "email": "danilo@example.com",
+        "deposit" : 11000,
+        "cCard" : "Visa"
+    },
+    {
+        "id":8374,
+        "name":"Ivan",
+        "phone" : "444-55-66",
+        "email": "ivan@example.com",
+        "deposit" : 9000,
+        "cCard" : "Dina"
+    }
+]
